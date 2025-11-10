@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi there! I'm Mouli Karmakar
 
-<!--
-**MouliKarmakar/MouliKarmakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer specializing in React.js, Next.js, and modern web technologies. I love creating clean, user-friendly interfaces and building scalable, responsive web applications.
 
-Here are some ideas to get you started:
+💡 What I Do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Craft interactive UIs with React & Next.js
+
+Develop full-stack apps using the MERN stack
+
+Focus on performance, accessibility, and elegant design
+
+🚀 Current Focus:
+Enhancing my skills in advanced frontend architecture, animation, and UI/UX for better storytelling through design.
+
+📫 **Let’s Connect:**
+
+[LinkedIn](https://www.linkedin.com/in/mouli-karmakar-19631226b/) • 
+[Portfolio](https://moulikarmakarprotfolio.netlify.app/) • 
+[Email](mailto:moulikarmakar7596@gmail.com)
+
+### ⚡ GitHub Stats
+
+![Mouli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moulikarmakar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moulikarmakar&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=moulikarmakar&theme=radical&hide_border=true)
